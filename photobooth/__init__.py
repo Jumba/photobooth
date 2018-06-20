@@ -28,7 +28,7 @@ QUALITY_BEST = 2
 
 INSTAGRAM_UPLOAD = True
 INSTAGRAM_USERNAME = 'arosbrua'
-INSTAGRAM_PASSWORD = 'FundashonProBrua2016MESMES'
+INSTAGRAM_PASSWORD = ''
 
 class Options(object):
     def __init__(self):
